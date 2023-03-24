@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-24T11:00:13Z" name="Suite" finished-at="2023-02-24T11:00:31Z" duration-ms="18408">
+    <groups>
+    </groups>
+    <test started-at="2023-02-24T11:00:13Z" name="Test" finished-at="2023-02-24T11:00:31Z" duration-ms="18408">
+      <class name="HrmMyFirstTestNgDemo.Hrm.Amazonparameter">
+        <test-method signature="parameter(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:HrmMyFirstTestNgDemo.Hrm.Amazonparameter@30c93896]" started-at="2023-02-24T11:00:13Z" name="parameter" finished-at="2023-02-24T11:00:31Z" duration-ms="18371" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[makeshv1998@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fansamv1998@]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Fansamv1998@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parameter -->
+      </class> <!-- HrmMyFirstTestNgDemo.Hrm.Amazonparameter -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

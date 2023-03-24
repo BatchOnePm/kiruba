@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="a" value="makeshv1998@gmail.com"/>
+  <parameter name="b" value="Fansamv1998@"/>
+  <parameter name="c" value="Fansamv1998@"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="HrmMyFirstTestNgDemo.Hrm.Amazonparameter">
+        <methods>
+          <include name="parameter" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- HrmMyFirstTestNgDemo.Hrm.Amazonparameter -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
